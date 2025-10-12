@@ -1,0 +1,11 @@
+C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\bin\Debug\GroupBoxPanelExample.exe.config
+C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\bin\Debug\GroupBoxPanelExample.exe
+C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\bin\Debug\GroupBoxPanelExample.pdb
+C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.csproj.AssemblyReference.cache
+C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.Form1.resources
+C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.Properties.Resources.resources
+C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.csproj.GenerateResource.cache
+C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.exe
+C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.pdb
+C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.exe.config

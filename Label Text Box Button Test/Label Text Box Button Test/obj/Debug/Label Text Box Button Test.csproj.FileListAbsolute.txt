@@ -1,0 +1,11 @@
+C:\Users\steve\Desktop\Label Text Box Button Test\Label Text Box Button Test\bin\Debug\Label Text Box Button Test.exe.config
+C:\Users\steve\Desktop\Label Text Box Button Test\Label Text Box Button Test\bin\Debug\Label Text Box Button Test.exe
+C:\Users\steve\Desktop\Label Text Box Button Test\Label Text Box Button Test\bin\Debug\Label Text Box Button Test.pdb
+C:\Users\steve\Desktop\Label Text Box Button Test\Label Text Box Button Test\obj\Debug\Label Text Box Button Test.csproj.AssemblyReference.cache
+C:\Users\steve\Desktop\Label Text Box Button Test\Label Text Box Button Test\obj\Debug\Label_Text_Box_Button_Test.Form1.resources
+C:\Users\steve\Desktop\Label Text Box Button Test\Label Text Box Button Test\obj\Debug\Label_Text_Box_Button_Test.Properties.Resources.resources
+C:\Users\steve\Desktop\Label Text Box Button Test\Label Text Box Button Test\obj\Debug\Label Text Box Button Test.csproj.GenerateResource.cache
+C:\Users\steve\Desktop\Label Text Box Button Test\Label Text Box Button Test\obj\Debug\Label Text Box Button Test.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\Label Text Box Button Test\Label Text Box Button Test\obj\Debug\Label Text Box Button Test.exe
+C:\Users\steve\Desktop\Label Text Box Button Test\Label Text Box Button Test\obj\Debug\Label Text Box Button Test.pdb
+C:\Users\steve\Desktop\Label Text Box Button Test\Label Text Box Button Test\obj\Debug\Label Text Box Button Test.exe.config

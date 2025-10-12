@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve\\Desktop\\Multiple Buttons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{105543F1-0BE8-4BE8-B2DF-68BCCBEA9A8C}|Multiple Buttons\\Multiple Buttons.csproj|c:\\users\\steve\\desktop\\multiple buttons\\multiple buttons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{105543F1-0BE8-4BE8-B2DF-68BCCBEA9A8C}|Multiple Buttons\\Multiple Buttons.csproj|solutionrelative:multiple buttons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105543F1-0BE8-4BE8-B2DF-68BCCBEA9A8C}|Multiple Buttons\\Multiple Buttons.csproj|c:\\users\\steve\\desktop\\multiple buttons\\multiple buttons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105543F1-0BE8-4BE8-B2DF-68BCCBEA9A8C}|Multiple Buttons\\Multiple Buttons.csproj|solutionrelative:multiple buttons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105543F1-0BE8-4BE8-B2DF-68BCCBEA9A8C}|Multiple Buttons\\Multiple Buttons.csproj|c:\\users\\steve\\desktop\\multiple buttons\\multiple buttons\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105543F1-0BE8-4BE8-B2DF-68BCCBEA9A8C}|Multiple Buttons\\Multiple Buttons.csproj|solutionrelative:multiple buttons\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Multiple Buttons\\Multiple Buttons\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Multiple Buttons\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\steve\\Desktop\\Multiple Buttons\\Multiple Buttons\\Form1.Designer.cs",
+              "RelativeToolTip": "Multiple Buttons\\Form1.Designer.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAcwMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T22:36:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Multiple Buttons\\Multiple Buttons\\Form1.cs",
+              "RelativeDocumentMoniker": "Multiple Buttons\\Form1.cs",
+              "ToolTip": "C:\\Users\\steve\\Desktop\\Multiple Buttons\\Multiple Buttons\\Form1.cs",
+              "RelativeToolTip": "Multiple Buttons\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T22:16:16.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Multiple Buttons\\Multiple Buttons\\Form1.cs",
+              "RelativeDocumentMoniker": "Multiple Buttons\\Form1.cs",
+              "ToolTip": "C:\\Users\\steve\\Desktop\\Multiple Buttons\\Multiple Buttons\\Form1.cs [Design]",
+              "RelativeToolTip": "Multiple Buttons\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T22:14:19Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
