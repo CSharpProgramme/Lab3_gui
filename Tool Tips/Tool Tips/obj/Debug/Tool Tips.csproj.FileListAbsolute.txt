@@ -1,0 +1,10 @@
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Tool Tips\Tool Tips\bin\Debug\Tool Tips.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Tool Tips\Tool Tips\bin\Debug\Tool Tips.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Tool Tips\Tool Tips\bin\Debug\Tool Tips.pdb
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Tool Tips\Tool Tips\obj\Debug\Tool Tips.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Tool Tips\Tool Tips\obj\Debug\Tool_Tips.Form1.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Tool Tips\Tool Tips\obj\Debug\Tool_Tips.Properties.Resources.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Tool Tips\Tool Tips\obj\Debug\Tool Tips.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Tool Tips\Tool Tips\obj\Debug\Tool Tips.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Tool Tips\Tool Tips\obj\Debug\Tool Tips.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Tool Tips\Tool Tips\obj\Debug\Tool Tips.pdb

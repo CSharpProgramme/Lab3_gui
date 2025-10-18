@@ -1,0 +1,11 @@
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Keyboard Event\Keyboard Event\bin\Debug\Keyboard Event.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Keyboard Event\Keyboard Event\bin\Debug\Keyboard Event.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Keyboard Event\Keyboard Event\bin\Debug\Keyboard Event.pdb
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Keyboard Event\Keyboard Event\obj\Debug\Keyboard Event.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Keyboard Event\Keyboard Event\obj\Debug\Keyboard_Event.Form1.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Keyboard Event\Keyboard Event\obj\Debug\Keyboard_Event.Properties.Resources.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Keyboard Event\Keyboard Event\obj\Debug\Keyboard Event.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Keyboard Event\Keyboard Event\obj\Debug\Keyboard Event.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Keyboard Event\Keyboard Event\obj\Debug\Keyboard Event.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Keyboard Event\Keyboard Event\obj\Debug\Keyboard Event.pdb
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Keyboard Event\Keyboard Event\obj\Debug\Keyboard Event.exe.config

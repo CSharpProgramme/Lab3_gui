@@ -1,0 +1,11 @@
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Numeric Up Down\Numeric Up Down\bin\Debug\Numeric Up Down.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Numeric Up Down\Numeric Up Down\bin\Debug\Numeric Up Down.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Numeric Up Down\Numeric Up Down\bin\Debug\Numeric Up Down.pdb
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Numeric Up Down\Numeric Up Down\obj\Debug\Numeric Up Down.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Numeric Up Down\Numeric Up Down\obj\Debug\Numeric_Up_Down.Form1.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Numeric Up Down\Numeric Up Down\obj\Debug\Numeric_Up_Down.Properties.Resources.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Numeric Up Down\Numeric Up Down\obj\Debug\Numeric Up Down.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Numeric Up Down\Numeric Up Down\obj\Debug\Numeric Up Down.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Numeric Up Down\Numeric Up Down\obj\Debug\Numeric Up Down.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Numeric Up Down\Numeric Up Down\obj\Debug\Numeric Up Down.pdb
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Numeric Up Down\Numeric Up Down\obj\Debug\Numeric Up Down.exe.config

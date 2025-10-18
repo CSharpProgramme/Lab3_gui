@@ -1,0 +1,11 @@
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Mouse Event\Mouse Event\bin\Debug\Mouse Event.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Mouse Event\Mouse Event\bin\Debug\Mouse Event.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Mouse Event\Mouse Event\bin\Debug\Mouse Event.pdb
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Mouse Event\Mouse Event\obj\Debug\Mouse Event.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Mouse Event\Mouse Event\obj\Debug\Mouse_Event.Form1.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Mouse Event\Mouse Event\obj\Debug\Mouse_Event.Properties.Resources.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Mouse Event\Mouse Event\obj\Debug\Mouse Event.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Mouse Event\Mouse Event\obj\Debug\Mouse Event.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Mouse Event\Mouse Event\obj\Debug\Mouse Event.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Mouse Event\Mouse Event\obj\Debug\Mouse Event.pdb
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Mouse Event\Mouse Event\obj\Debug\Mouse Event.exe.config
