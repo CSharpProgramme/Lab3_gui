@@ -8,3 +8,14 @@ C:\Users\steve\Desktop\Code Demo\Code Demo\obj\Debug\Code Demo.csproj.GenerateRe
 C:\Users\steve\Desktop\Code Demo\Code Demo\obj\Debug\Code Demo.csproj.CoreCompileInputs.cache
 C:\Users\steve\Desktop\Code Demo\Code Demo\obj\Debug\Code Demo.exe
 C:\Users\steve\Desktop\Code Demo\Code Demo\obj\Debug\Code Demo.pdb
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Code Demo\Code Demo\bin\Debug\Code Demo.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Code Demo\Code Demo\bin\Debug\Code Demo.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Code Demo\Code Demo\bin\Debug\Code Demo.pdb
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Code Demo\Code Demo\obj\Debug\Code Demo.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Code Demo\Code Demo\obj\Debug\Code Demo.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Code Demo\Code Demo\obj\Debug\Code_Demo.ClickButton.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Code Demo\Code Demo\obj\Debug\Code_Demo.Properties.Resources.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Code Demo\Code Demo\obj\Debug\Code Demo.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Code Demo\Code Demo\obj\Debug\Code Demo.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Code Demo\Code Demo\obj\Debug\Code Demo.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Code Demo\Code Demo\obj\Debug\Code Demo.pdb

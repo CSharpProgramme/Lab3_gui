@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Numeric_Up_Down
 {
-    public partial class Form1 : Form
+    public partial class numericUpDownForm : Form
     {
-        public Form1()
+        public numericUpDownForm()
         {
             InitializeComponent();
         }

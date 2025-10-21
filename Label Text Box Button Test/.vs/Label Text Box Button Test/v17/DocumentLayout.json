@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\steve\\Desktop\\Label Text Box Button Test\\",
+  "WorkspaceRootPath": "C:\\Users\\steve\\OneDrive\\Desktop\\Lab3_gui\\Label Text Box Button Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4928D7C7-BE55-47C3-8A95-3968CF5186F6}|Label Text Box Button Test\\Label Text Box Button Test.csproj|c:\\users\\steve\\desktop\\label text box button test\\label text box button test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4928D7C7-BE55-47C3-8A95-3968CF5186F6}|Label Text Box Button Test\\Label Text Box Button Test.csproj|c:\\users\\steve\\onedrive\\desktop\\lab3_gui\\label text box button test\\label text box button test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4928D7C7-BE55-47C3-8A95-3968CF5186F6}|Label Text Box Button Test\\Label Text Box Button Test.csproj|solutionrelative:label text box button test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4928D7C7-BE55-47C3-8A95-3968CF5186F6}|Label Text Box Button Test\\Label Text Box Button Test.csproj|c:\\users\\steve\\desktop\\label text box button test\\label text box button test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4928D7C7-BE55-47C3-8A95-3968CF5186F6}|Label Text Box Button Test\\Label Text Box Button Test.csproj|C:\\Users\\steve\\OneDrive\\Desktop\\Lab3_gui\\Label Text Box Button Test\\label text box button test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4928D7C7-BE55-47C3-8A95-3968CF5186F6}|Label Text Box Button Test\\Label Text Box Button Test.csproj|solutionrelative:label text box button test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Label Text Box Button Test\\Label Text Box Button Test\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Desktop\\Lab3_gui\\Label Text Box Button Test\\Label Text Box Button Test\\Form1.cs",
               "RelativeDocumentMoniker": "Label Text Box Button Test\\Form1.cs",
-              "ToolTip": "C:\\Users\\steve\\Desktop\\Label Text Box Button Test\\Label Text Box Button Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Desktop\\Lab3_gui\\Label Text Box Button Test\\Label Text Box Button Test\\Form1.cs",
               "RelativeToolTip": "Label Text Box Button Test\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\steve\\Desktop\\Label Text Box Button Test\\Label Text Box Button Test\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\Desktop\\Lab3_gui\\Label Text Box Button Test\\Label Text Box Button Test\\Form1.cs",
               "RelativeDocumentMoniker": "Label Text Box Button Test\\Form1.cs",
-              "ToolTip": "C:\\Users\\steve\\Desktop\\Label Text Box Button Test\\Label Text Box Button Test\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\Desktop\\Lab3_gui\\Label Text Box Button Test\\Label Text Box Button Test\\Form1.cs [Design]",
               "RelativeToolTip": "Label Text Box Button Test\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-11T23:47:39.254Z",

@@ -1,6 +1,6 @@
 ﻿namespace CheckBox
 {
-    partial class Form1
+    partial class checkboxForm
     {
         /// <summary>
         /// Required designer variable.
@@ -36,9 +36,10 @@
             // boldCheckBox
             // 
             this.boldCheckBox.AutoSize = true;
-            this.boldCheckBox.Location = new System.Drawing.Point(40, 78);
+            this.boldCheckBox.Location = new System.Drawing.Point(60, 120);
+            this.boldCheckBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.boldCheckBox.Name = "boldCheckBox";
-            this.boldCheckBox.Size = new System.Drawing.Size(47, 17);
+            this.boldCheckBox.Size = new System.Drawing.Size(67, 24);
             this.boldCheckBox.TabIndex = 0;
             this.boldCheckBox.Text = "Bold";
             this.boldCheckBox.UseVisualStyleBackColor = true;
@@ -48,32 +49,35 @@
             // 
             this.outputLabel.AutoSize = true;
             this.outputLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.outputLabel.Location = new System.Drawing.Point(26, 26);
+            this.outputLabel.Location = new System.Drawing.Point(39, 40);
+            this.outputLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.outputLabel.Name = "outputLabel";
-            this.outputLabel.Size = new System.Drawing.Size(169, 16);
+            this.outputLabel.Size = new System.Drawing.Size(253, 25);
             this.outputLabel.TabIndex = 1;
             this.outputLabel.Text = "Watch the font style change";
             // 
             // italicCheckBox
             // 
             this.italicCheckBox.AutoSize = true;
-            this.italicCheckBox.Location = new System.Drawing.Point(119, 78);
+            this.italicCheckBox.Location = new System.Drawing.Point(178, 120);
+            this.italicCheckBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.italicCheckBox.Name = "italicCheckBox";
-            this.italicCheckBox.Size = new System.Drawing.Size(48, 17);
+            this.italicCheckBox.Size = new System.Drawing.Size(68, 24);
             this.italicCheckBox.TabIndex = 2;
             this.italicCheckBox.Text = "Italic";
             this.italicCheckBox.UseVisualStyleBackColor = true;
             this.italicCheckBox.CheckedChanged += new System.EventHandler(this.italicCheckBox_CheckedChanged);
             // 
-            // Form1
+            // checkboxForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(241, 157);
+            this.ClientSize = new System.Drawing.Size(362, 242);
             this.Controls.Add(this.italicCheckBox);
             this.Controls.Add(this.outputLabel);
             this.Controls.Add(this.boldCheckBox);
-            this.Name = "Form1";
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.Name = "checkboxForm";
             this.Text = "checkBox";
             this.ResumeLayout(false);
             this.PerformLayout();

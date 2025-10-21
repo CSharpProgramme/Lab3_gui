@@ -9,3 +9,14 @@ C:\Users\steve\Desktop\Simple Event Example\Simple Event Example\obj\Debug\Simpl
 C:\Users\steve\Desktop\Simple Event Example\Simple Event Example\obj\Debug\Simple Event Example.pdb
 C:\Users\steve\Desktop\Simple Event Example\Simple Event Example\obj\Debug\Simple Event Example.exe.config
 C:\Users\steve\Desktop\Simple Event Example\Simple Event Example\obj\Debug\Simple_Event_Example.SimpleEventExampleForm.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Simple Event Example\Simple Event Example\bin\Debug\Simple Event Example.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Simple Event Example\Simple Event Example\bin\Debug\Simple Event Example.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Simple Event Example\Simple Event Example\bin\Debug\Simple Event Example.pdb
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Simple Event Example\Simple Event Example\obj\Debug\Simple Event Example.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Simple Event Example\Simple Event Example\obj\Debug\Simple Event Example.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Simple Event Example\Simple Event Example\obj\Debug\Simple_Event_Example.SimpleEventExampleForm.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Simple Event Example\Simple Event Example\obj\Debug\Simple_Event_Example.Properties.Resources.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Simple Event Example\Simple Event Example\obj\Debug\Simple Event Example.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Simple Event Example\Simple Event Example\obj\Debug\Simple Event Example.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Simple Event Example\Simple Event Example\obj\Debug\Simple Event Example.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Simple Event Example\Simple Event Example\obj\Debug\Simple Event Example.pdb

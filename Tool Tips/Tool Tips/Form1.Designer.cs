@@ -1,6 +1,6 @@
 ﻿namespace Tool_Tips
 {
-    partial class Form1
+    partial class toolTipForm
     {
         /// <summary>
         /// Required designer variable.
@@ -38,7 +38,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(335, 156);
+            this.label1.Location = new System.Drawing.Point(99, 81);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(103, 20);
             this.label1.TabIndex = 0;
@@ -48,22 +48,22 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(335, 242);
+            this.label2.Location = new System.Drawing.Point(99, 167);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(149, 20);
             this.label2.TabIndex = 1;
             this.label2.Text = "This is another label";
             this.toolTip6.SetToolTip(this.label2, "Second Label");
             // 
-            // Form1
+            // toolTipForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(383, 286);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "toolTipForm";
+            this.Text = "Tool Tip Form";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -1,6 +1,6 @@
 ﻿namespace Hello_World
 {
-    partial class Form1
+    partial class FirstProgramForm
     {
         /// <summary>
         /// Required designer variable.
@@ -33,21 +33,23 @@
             // 
             // messageButton
             // 
-            this.messageButton.Location = new System.Drawing.Point(345, 194);
+            this.messageButton.Location = new System.Drawing.Point(166, 125);
+            this.messageButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.messageButton.Name = "messageButton";
-            this.messageButton.Size = new System.Drawing.Size(75, 43);
+            this.messageButton.Size = new System.Drawing.Size(112, 66);
             this.messageButton.TabIndex = 0;
             this.messageButton.Text = "Display Message";
             this.messageButton.UseVisualStyleBackColor = true;
             this.messageButton.Click += new System.EventHandler(this.messageButton_Click);
             // 
-            // Form1
+            // FirstProgramForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(462, 332);
             this.Controls.Add(this.messageButton);
-            this.Name = "Form1";
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.Name = "FirstProgramForm";
             this.Text = "My First Program";
             this.ResumeLayout(false);
 

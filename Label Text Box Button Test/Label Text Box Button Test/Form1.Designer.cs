@@ -1,6 +1,6 @@
 ﻿namespace Label_Text_Box_Button_Test
 {
-    partial class Form1
+    partial class labelTextboxButtonForm
     {
         /// <summary>
         /// Required designer variable.
@@ -35,9 +35,10 @@
             // 
             // displayPasswordButton
             // 
-            this.displayPasswordButton.Location = new System.Drawing.Point(105, 123);
+            this.displayPasswordButton.Location = new System.Drawing.Point(216, 226);
+            this.displayPasswordButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.displayPasswordButton.Name = "displayPasswordButton";
-            this.displayPasswordButton.Size = new System.Drawing.Size(75, 23);
+            this.displayPasswordButton.Size = new System.Drawing.Size(112, 35);
             this.displayPasswordButton.TabIndex = 0;
             this.displayPasswordButton.Text = "Show me";
             this.displayPasswordButton.UseVisualStyleBackColor = true;
@@ -46,29 +47,32 @@
             // displayPasswordLabel
             // 
             this.displayPasswordLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.displayPasswordLabel.Location = new System.Drawing.Point(23, 73);
+            this.displayPasswordLabel.Location = new System.Drawing.Point(92, 149);
+            this.displayPasswordLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.displayPasswordLabel.Name = "displayPasswordLabel";
-            this.displayPasswordLabel.Size = new System.Drawing.Size(241, 23);
+            this.displayPasswordLabel.Size = new System.Drawing.Size(360, 34);
             this.displayPasswordLabel.TabIndex = 1;
             this.displayPasswordLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // inputPasswordTextBox
             // 
-            this.inputPasswordTextBox.Location = new System.Drawing.Point(26, 27);
+            this.inputPasswordTextBox.Location = new System.Drawing.Point(97, 79);
+            this.inputPasswordTextBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.inputPasswordTextBox.Name = "inputPasswordTextBox";
-            this.inputPasswordTextBox.Size = new System.Drawing.Size(238, 20);
+            this.inputPasswordTextBox.Size = new System.Drawing.Size(355, 26);
             this.inputPasswordTextBox.TabIndex = 2;
             this.inputPasswordTextBox.UseSystemPasswordChar = true;
             // 
-            // Form1
+            // labelTextboxButtonForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(305, 192);
+            this.ClientSize = new System.Drawing.Size(569, 310);
             this.Controls.Add(this.inputPasswordTextBox);
             this.Controls.Add(this.displayPasswordLabel);
             this.Controls.Add(this.displayPasswordButton);
-            this.Name = "Form1";
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.Name = "labelTextboxButtonForm";
             this.Text = "Label, TextBox, and Buttons";
             this.ResumeLayout(false);
             this.PerformLayout();

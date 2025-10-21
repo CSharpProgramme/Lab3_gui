@@ -1,6 +1,6 @@
 ﻿namespace Picture_Box
 {
-    partial class Form1
+    partial class pictureBoxForm
     {
         /// <summary>
         /// Required designer variable.
@@ -35,7 +35,7 @@
             // 
             // nextButton
             // 
-            this.nextButton.Location = new System.Drawing.Point(466, 64);
+            this.nextButton.Location = new System.Drawing.Point(198, 33);
             this.nextButton.Name = "nextButton";
             this.nextButton.Size = new System.Drawing.Size(125, 43);
             this.nextButton.TabIndex = 1;
@@ -46,20 +46,21 @@
             // imagePictureBox
             // 
             this.imagePictureBox.Image = global::Picture_Box.Properties.Resources.image0;
-            this.imagePictureBox.Location = new System.Drawing.Point(345, 148);
+            this.imagePictureBox.Location = new System.Drawing.Point(77, 117);
             this.imagePictureBox.Name = "imagePictureBox";
             this.imagePictureBox.Size = new System.Drawing.Size(371, 360);
+            this.imagePictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.imagePictureBox.TabIndex = 2;
             this.imagePictureBox.TabStop = false;
             // 
-            // Form1
+            // pictureBoxForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1054, 696);
+            this.ClientSize = new System.Drawing.Size(541, 576);
             this.Controls.Add(this.imagePictureBox);
             this.Controls.Add(this.nextButton);
-            this.Name = "Form1";
+            this.Name = "pictureBoxForm";
             this.Text = "Picture Box";
             ((System.ComponentModel.ISupportInitialize)(this.imagePictureBox)).EndInit();
             this.ResumeLayout(false);

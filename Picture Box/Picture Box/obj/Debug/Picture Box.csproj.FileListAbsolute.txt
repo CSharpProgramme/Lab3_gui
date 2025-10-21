@@ -1,5 +1,4 @@
 C:\Users\steve\OneDrive\Desktop\Lab3_gui\Picture Box\Picture Box\obj\Debug\Picture Box.csproj.AssemblyReference.cache
-C:\Users\steve\OneDrive\Desktop\Lab3_gui\Picture Box\Picture Box\obj\Debug\Picture_Box.Form1.resources
 C:\Users\steve\OneDrive\Desktop\Lab3_gui\Picture Box\Picture Box\obj\Debug\Picture_Box.Properties.Resources.resources
 C:\Users\steve\OneDrive\Desktop\Lab3_gui\Picture Box\Picture Box\obj\Debug\Picture Box.csproj.GenerateResource.cache
 C:\Users\steve\OneDrive\Desktop\Lab3_gui\Picture Box\Picture Box\obj\Debug\Picture Box.csproj.CoreCompileInputs.cache
@@ -9,3 +8,4 @@ C:\Users\steve\OneDrive\Desktop\Lab3_gui\Picture Box\Picture Box\bin\Debug\Pictu
 C:\Users\steve\OneDrive\Desktop\Lab3_gui\Picture Box\Picture Box\obj\Debug\Picture Box.exe
 C:\Users\steve\OneDrive\Desktop\Lab3_gui\Picture Box\Picture Box\obj\Debug\Picture Box.pdb
 C:\Users\steve\OneDrive\Desktop\Lab3_gui\Picture Box\Picture Box\obj\Debug\Picture Box.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Picture Box\Picture Box\obj\Debug\Picture_Box.pictureBoxForm.resources

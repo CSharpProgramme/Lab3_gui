@@ -1,6 +1,6 @@
 ﻿namespace Numeric_Up_Down
 {
-    partial class Form1
+    partial class numericUpDownForm
     {
         /// <summary>
         /// Required designer variable.
@@ -118,7 +118,7 @@
             this.displayTextBox.Size = new System.Drawing.Size(421, 190);
             this.displayTextBox.TabIndex = 8;
             // 
-            // Form1
+            // numericUpDownForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -132,7 +132,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "numericUpDownForm";
             this.Text = "Numeric Up Down";
             ((System.ComponentModel.ISupportInitialize)(this.yearUpDown)).EndInit();
             this.ResumeLayout(false);

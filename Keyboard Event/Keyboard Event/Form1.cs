@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Keyboard_Event
 {
-    public partial class Form1 : Form
+    public partial class keyboardEventForm : Form
     {
-        public Form1()
+        public keyboardEventForm()
         {
             InitializeComponent();
         }

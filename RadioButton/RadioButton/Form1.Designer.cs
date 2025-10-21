@@ -1,6 +1,6 @@
 ﻿namespace RadioButton
 {
-    partial class Form1
+    partial class radioButtonForm
     {
         /// <summary>
         /// Required designer variable.
@@ -28,14 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.buttonType = new System.Windows.Forms.GroupBox();
+            this.buttonTypeGroupBox = new System.Windows.Forms.GroupBox();
             this.radioButton6 = new System.Windows.Forms.RadioButton();
             this.yesNoRadioButton = new System.Windows.Forms.RadioButton();
             this.yesNoCancelRadioButton = new System.Windows.Forms.RadioButton();
             this.abortRetryIgnoreRadioButton = new System.Windows.Forms.RadioButton();
             this.okCancelRadioButton = new System.Windows.Forms.RadioButton();
             this.okRadioButton = new System.Windows.Forms.RadioButton();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.iconGroupBox = new System.Windows.Forms.GroupBox();
             this.warningRadioButton = new System.Windows.Forms.RadioButton();
             this.stopRadioButton = new System.Windows.Forms.RadioButton();
             this.questionRadioButton = new System.Windows.Forms.RadioButton();
@@ -46,31 +46,34 @@
             this.asteriskRadioButton = new System.Windows.Forms.RadioButton();
             this.displayButton = new System.Windows.Forms.Button();
             this.displayLabel = new System.Windows.Forms.Label();
-            this.buttonType.SuspendLayout();
-            this.groupBox2.SuspendLayout();
+            this.buttonTypeGroupBox.SuspendLayout();
+            this.iconGroupBox.SuspendLayout();
             this.SuspendLayout();
             // 
-            // buttonType
+            // buttonTypeGroupBox
             // 
-            this.buttonType.Controls.Add(this.radioButton6);
-            this.buttonType.Controls.Add(this.yesNoRadioButton);
-            this.buttonType.Controls.Add(this.yesNoCancelRadioButton);
-            this.buttonType.Controls.Add(this.abortRetryIgnoreRadioButton);
-            this.buttonType.Controls.Add(this.okCancelRadioButton);
-            this.buttonType.Controls.Add(this.okRadioButton);
-            this.buttonType.Location = new System.Drawing.Point(24, 24);
-            this.buttonType.Name = "buttonType";
-            this.buttonType.Size = new System.Drawing.Size(137, 255);
-            this.buttonType.TabIndex = 0;
-            this.buttonType.TabStop = false;
-            this.buttonType.Text = "Button Type";
+            this.buttonTypeGroupBox.Controls.Add(this.radioButton6);
+            this.buttonTypeGroupBox.Controls.Add(this.yesNoRadioButton);
+            this.buttonTypeGroupBox.Controls.Add(this.yesNoCancelRadioButton);
+            this.buttonTypeGroupBox.Controls.Add(this.abortRetryIgnoreRadioButton);
+            this.buttonTypeGroupBox.Controls.Add(this.okCancelRadioButton);
+            this.buttonTypeGroupBox.Controls.Add(this.okRadioButton);
+            this.buttonTypeGroupBox.Location = new System.Drawing.Point(36, 37);
+            this.buttonTypeGroupBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.buttonTypeGroupBox.Name = "buttonTypeGroupBox";
+            this.buttonTypeGroupBox.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.buttonTypeGroupBox.Size = new System.Drawing.Size(206, 392);
+            this.buttonTypeGroupBox.TabIndex = 0;
+            this.buttonTypeGroupBox.TabStop = false;
+            this.buttonTypeGroupBox.Text = "Button Type";
             // 
             // radioButton6
             // 
             this.radioButton6.AutoSize = true;
-            this.radioButton6.Location = new System.Drawing.Point(19, 211);
+            this.radioButton6.Location = new System.Drawing.Point(28, 325);
+            this.radioButton6.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.radioButton6.Name = "radioButton6";
-            this.radioButton6.Size = new System.Drawing.Size(83, 17);
+            this.radioButton6.Size = new System.Drawing.Size(121, 24);
             this.radioButton6.TabIndex = 5;
             this.radioButton6.Text = "RetryCancel";
             this.radioButton6.UseVisualStyleBackColor = true;
@@ -79,9 +82,10 @@
             // yesNoRadioButton
             // 
             this.yesNoRadioButton.AutoSize = true;
-            this.yesNoRadioButton.Location = new System.Drawing.Point(19, 176);
+            this.yesNoRadioButton.Location = new System.Drawing.Point(28, 271);
+            this.yesNoRadioButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.yesNoRadioButton.Name = "yesNoRadioButton";
-            this.yesNoRadioButton.Size = new System.Drawing.Size(57, 17);
+            this.yesNoRadioButton.Size = new System.Drawing.Size(82, 24);
             this.yesNoRadioButton.TabIndex = 4;
             this.yesNoRadioButton.Text = "YesNo";
             this.yesNoRadioButton.UseVisualStyleBackColor = true;
@@ -90,9 +94,10 @@
             // yesNoCancelRadioButton
             // 
             this.yesNoCancelRadioButton.AutoSize = true;
-            this.yesNoCancelRadioButton.Location = new System.Drawing.Point(19, 139);
+            this.yesNoCancelRadioButton.Location = new System.Drawing.Point(28, 214);
+            this.yesNoCancelRadioButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.yesNoCancelRadioButton.Name = "yesNoCancelRadioButton";
-            this.yesNoCancelRadioButton.Size = new System.Drawing.Size(90, 17);
+            this.yesNoCancelRadioButton.Size = new System.Drawing.Size(131, 24);
             this.yesNoCancelRadioButton.TabIndex = 3;
             this.yesNoCancelRadioButton.Text = "YesNoCancel";
             this.yesNoCancelRadioButton.UseVisualStyleBackColor = true;
@@ -101,9 +106,10 @@
             // abortRetryIgnoreRadioButton
             // 
             this.abortRetryIgnoreRadioButton.AutoSize = true;
-            this.abortRetryIgnoreRadioButton.Location = new System.Drawing.Point(19, 105);
+            this.abortRetryIgnoreRadioButton.Location = new System.Drawing.Point(28, 162);
+            this.abortRetryIgnoreRadioButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.abortRetryIgnoreRadioButton.Name = "abortRetryIgnoreRadioButton";
-            this.abortRetryIgnoreRadioButton.Size = new System.Drawing.Size(105, 17);
+            this.abortRetryIgnoreRadioButton.Size = new System.Drawing.Size(157, 24);
             this.abortRetryIgnoreRadioButton.TabIndex = 2;
             this.abortRetryIgnoreRadioButton.Text = "AbortRetryIgnore";
             this.abortRetryIgnoreRadioButton.UseVisualStyleBackColor = true;
@@ -112,9 +118,10 @@
             // okCancelRadioButton
             // 
             this.okCancelRadioButton.AutoSize = true;
-            this.okCancelRadioButton.Location = new System.Drawing.Point(19, 70);
+            this.okCancelRadioButton.Location = new System.Drawing.Point(28, 108);
+            this.okCancelRadioButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.okCancelRadioButton.Name = "okCancelRadioButton";
-            this.okCancelRadioButton.Size = new System.Drawing.Size(73, 17);
+            this.okCancelRadioButton.Size = new System.Drawing.Size(105, 24);
             this.okCancelRadioButton.TabIndex = 1;
             this.okCancelRadioButton.Text = "OKCancel";
             this.okCancelRadioButton.UseVisualStyleBackColor = true;
@@ -123,37 +130,41 @@
             // okRadioButton
             // 
             this.okRadioButton.AutoSize = true;
-            this.okRadioButton.Location = new System.Drawing.Point(19, 36);
+            this.okRadioButton.Location = new System.Drawing.Point(28, 55);
+            this.okRadioButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.okRadioButton.Name = "okRadioButton";
-            this.okRadioButton.Size = new System.Drawing.Size(39, 17);
+            this.okRadioButton.Size = new System.Drawing.Size(54, 24);
             this.okRadioButton.TabIndex = 0;
             this.okRadioButton.Text = "Ok";
             this.okRadioButton.UseVisualStyleBackColor = true;
             this.okRadioButton.CheckedChanged += new System.EventHandler(this.buttonType_CheckedChanged);
             // 
-            // groupBox2
+            // iconGroupBox
             // 
-            this.groupBox2.Controls.Add(this.warningRadioButton);
-            this.groupBox2.Controls.Add(this.stopRadioButton);
-            this.groupBox2.Controls.Add(this.questionRadioButton);
-            this.groupBox2.Controls.Add(this.informationRadioButton);
-            this.groupBox2.Controls.Add(this.handRadioButton);
-            this.groupBox2.Controls.Add(this.exclamationRadioButton);
-            this.groupBox2.Controls.Add(this.errorRadioButton);
-            this.groupBox2.Controls.Add(this.asteriskRadioButton);
-            this.groupBox2.Location = new System.Drawing.Point(176, 24);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(140, 314);
-            this.groupBox2.TabIndex = 0;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Icon";
+            this.iconGroupBox.Controls.Add(this.warningRadioButton);
+            this.iconGroupBox.Controls.Add(this.stopRadioButton);
+            this.iconGroupBox.Controls.Add(this.questionRadioButton);
+            this.iconGroupBox.Controls.Add(this.informationRadioButton);
+            this.iconGroupBox.Controls.Add(this.handRadioButton);
+            this.iconGroupBox.Controls.Add(this.exclamationRadioButton);
+            this.iconGroupBox.Controls.Add(this.errorRadioButton);
+            this.iconGroupBox.Controls.Add(this.asteriskRadioButton);
+            this.iconGroupBox.Location = new System.Drawing.Point(264, 37);
+            this.iconGroupBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.iconGroupBox.Name = "iconGroupBox";
+            this.iconGroupBox.Padding = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.iconGroupBox.Size = new System.Drawing.Size(210, 483);
+            this.iconGroupBox.TabIndex = 0;
+            this.iconGroupBox.TabStop = false;
+            this.iconGroupBox.Text = "Icon";
             // 
             // warningRadioButton
             // 
             this.warningRadioButton.AutoSize = true;
-            this.warningRadioButton.Location = new System.Drawing.Point(28, 283);
+            this.warningRadioButton.Location = new System.Drawing.Point(42, 435);
+            this.warningRadioButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.warningRadioButton.Name = "warningRadioButton";
-            this.warningRadioButton.Size = new System.Drawing.Size(65, 17);
+            this.warningRadioButton.Size = new System.Drawing.Size(93, 24);
             this.warningRadioButton.TabIndex = 7;
             this.warningRadioButton.TabStop = true;
             this.warningRadioButton.Text = "Warning";
@@ -163,9 +174,10 @@
             // stopRadioButton
             // 
             this.stopRadioButton.AutoSize = true;
-            this.stopRadioButton.Location = new System.Drawing.Point(28, 248);
+            this.stopRadioButton.Location = new System.Drawing.Point(42, 382);
+            this.stopRadioButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.stopRadioButton.Name = "stopRadioButton";
-            this.stopRadioButton.Size = new System.Drawing.Size(47, 17);
+            this.stopRadioButton.Size = new System.Drawing.Size(68, 24);
             this.stopRadioButton.TabIndex = 6;
             this.stopRadioButton.TabStop = true;
             this.stopRadioButton.Text = "Stop";
@@ -175,9 +187,10 @@
             // questionRadioButton
             // 
             this.questionRadioButton.AutoSize = true;
-            this.questionRadioButton.Location = new System.Drawing.Point(28, 211);
+            this.questionRadioButton.Location = new System.Drawing.Point(42, 325);
+            this.questionRadioButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.questionRadioButton.Name = "questionRadioButton";
-            this.questionRadioButton.Size = new System.Drawing.Size(67, 17);
+            this.questionRadioButton.Size = new System.Drawing.Size(98, 24);
             this.questionRadioButton.TabIndex = 5;
             this.questionRadioButton.TabStop = true;
             this.questionRadioButton.Text = "Question";
@@ -187,9 +200,10 @@
             // informationRadioButton
             // 
             this.informationRadioButton.AutoSize = true;
-            this.informationRadioButton.Location = new System.Drawing.Point(28, 176);
+            this.informationRadioButton.Location = new System.Drawing.Point(42, 271);
+            this.informationRadioButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.informationRadioButton.Name = "informationRadioButton";
-            this.informationRadioButton.Size = new System.Drawing.Size(77, 17);
+            this.informationRadioButton.Size = new System.Drawing.Size(115, 24);
             this.informationRadioButton.TabIndex = 4;
             this.informationRadioButton.TabStop = true;
             this.informationRadioButton.Text = "Information";
@@ -199,9 +213,10 @@
             // handRadioButton
             // 
             this.handRadioButton.AutoSize = true;
-            this.handRadioButton.Location = new System.Drawing.Point(28, 139);
+            this.handRadioButton.Location = new System.Drawing.Point(42, 214);
+            this.handRadioButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.handRadioButton.Name = "handRadioButton";
-            this.handRadioButton.Size = new System.Drawing.Size(51, 17);
+            this.handRadioButton.Size = new System.Drawing.Size(73, 24);
             this.handRadioButton.TabIndex = 3;
             this.handRadioButton.TabStop = true;
             this.handRadioButton.Text = "Hand";
@@ -211,9 +226,10 @@
             // exclamationRadioButton
             // 
             this.exclamationRadioButton.AutoSize = true;
-            this.exclamationRadioButton.Location = new System.Drawing.Point(28, 105);
+            this.exclamationRadioButton.Location = new System.Drawing.Point(42, 162);
+            this.exclamationRadioButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.exclamationRadioButton.Name = "exclamationRadioButton";
-            this.exclamationRadioButton.Size = new System.Drawing.Size(82, 17);
+            this.exclamationRadioButton.Size = new System.Drawing.Size(120, 24);
             this.exclamationRadioButton.TabIndex = 2;
             this.exclamationRadioButton.TabStop = true;
             this.exclamationRadioButton.Text = "Exclamation";
@@ -223,9 +239,10 @@
             // errorRadioButton
             // 
             this.errorRadioButton.AutoSize = true;
-            this.errorRadioButton.Location = new System.Drawing.Point(28, 70);
+            this.errorRadioButton.Location = new System.Drawing.Point(42, 108);
+            this.errorRadioButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.errorRadioButton.Name = "errorRadioButton";
-            this.errorRadioButton.Size = new System.Drawing.Size(47, 17);
+            this.errorRadioButton.Size = new System.Drawing.Size(69, 24);
             this.errorRadioButton.TabIndex = 1;
             this.errorRadioButton.TabStop = true;
             this.errorRadioButton.Text = "Error";
@@ -235,9 +252,10 @@
             // asteriskRadioButton
             // 
             this.asteriskRadioButton.AutoSize = true;
-            this.asteriskRadioButton.Location = new System.Drawing.Point(28, 36);
+            this.asteriskRadioButton.Location = new System.Drawing.Point(42, 55);
+            this.asteriskRadioButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.asteriskRadioButton.Name = "asteriskRadioButton";
-            this.asteriskRadioButton.Size = new System.Drawing.Size(62, 17);
+            this.asteriskRadioButton.Size = new System.Drawing.Size(91, 24);
             this.asteriskRadioButton.TabIndex = 0;
             this.asteriskRadioButton.TabStop = true;
             this.asteriskRadioButton.Text = "Asterisk";
@@ -246,9 +264,10 @@
             // 
             // displayButton
             // 
-            this.displayButton.Location = new System.Drawing.Point(24, 285);
+            this.displayButton.Location = new System.Drawing.Point(36, 438);
+            this.displayButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.displayButton.Name = "displayButton";
-            this.displayButton.Size = new System.Drawing.Size(137, 53);
+            this.displayButton.Size = new System.Drawing.Size(206, 82);
             this.displayButton.TabIndex = 1;
             this.displayButton.Text = "Display";
             this.displayButton.UseVisualStyleBackColor = true;
@@ -257,41 +276,43 @@
             // displayLabel
             // 
             this.displayLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.displayLabel.Location = new System.Drawing.Point(21, 363);
+            this.displayLabel.Location = new System.Drawing.Point(32, 558);
+            this.displayLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.displayLabel.Name = "displayLabel";
-            this.displayLabel.Size = new System.Drawing.Size(295, 23);
+            this.displayLabel.Size = new System.Drawing.Size(442, 34);
             this.displayLabel.TabIndex = 2;
             this.displayLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
-            // Form1
+            // radioButtonForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(352, 430);
+            this.ClientSize = new System.Drawing.Size(528, 662);
             this.Controls.Add(this.displayLabel);
             this.Controls.Add(this.displayButton);
-            this.Controls.Add(this.groupBox2);
-            this.Controls.Add(this.buttonType);
-            this.Name = "Form1";
-            this.Text = "Form1";
-            this.buttonType.ResumeLayout(false);
-            this.buttonType.PerformLayout();
-            this.groupBox2.ResumeLayout(false);
-            this.groupBox2.PerformLayout();
+            this.Controls.Add(this.iconGroupBox);
+            this.Controls.Add(this.buttonTypeGroupBox);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.Name = "radioButtonForm";
+            this.Text = "Radio Button";
+            this.buttonTypeGroupBox.ResumeLayout(false);
+            this.buttonTypeGroupBox.PerformLayout();
+            this.iconGroupBox.ResumeLayout(false);
+            this.iconGroupBox.PerformLayout();
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.GroupBox buttonType;
+        private System.Windows.Forms.GroupBox buttonTypeGroupBox;
         private System.Windows.Forms.RadioButton radioButton6;
         private System.Windows.Forms.RadioButton yesNoRadioButton;
         private System.Windows.Forms.RadioButton yesNoCancelRadioButton;
         private System.Windows.Forms.RadioButton abortRetryIgnoreRadioButton;
         private System.Windows.Forms.RadioButton okCancelRadioButton;
         private System.Windows.Forms.RadioButton okRadioButton;
-        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.GroupBox iconGroupBox;
         private System.Windows.Forms.RadioButton warningRadioButton;
         private System.Windows.Forms.RadioButton stopRadioButton;
         private System.Windows.Forms.RadioButton questionRadioButton;

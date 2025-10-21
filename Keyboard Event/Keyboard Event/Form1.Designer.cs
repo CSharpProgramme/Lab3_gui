@@ -1,6 +1,6 @@
 ﻿namespace Keyboard_Event
 {
-    partial class Form1
+    partial class keyboardEventForm
     {
         /// <summary>
         /// Required designer variable.
@@ -50,18 +50,18 @@
             this.keyInfoLabel.TabIndex = 1;
             this.keyInfoLabel.Text = "label2";
             // 
-            // Form1
+            // keyboardEventForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(578, 450);
             this.Controls.Add(this.keyInfoLabel);
             this.Controls.Add(this.charLabel);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "keyboardEventForm";
+            this.Text = "Keyboard Event";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.KeyDemo_KeyDown);
-            this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.KeyDemo_KeyUp);
             this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.KeyDemo_KeyPress);
+            this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.KeyDemo_KeyUp);
             this.ResumeLayout(false);
             this.PerformLayout();
 

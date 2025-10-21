@@ -16,7 +16,7 @@ namespace Simple_Event_Example
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SimpleEventExampleForm());
+            Application.Run(new simpleEventExampleForm());
         }
     }
 }

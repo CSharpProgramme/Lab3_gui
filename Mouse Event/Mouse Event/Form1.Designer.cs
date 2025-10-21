@@ -1,6 +1,6 @@
 ﻿namespace Mouse_Event
 {
-    partial class Form1
+    partial class mouseEventForm
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // mouseEventForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(645, 504);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "mouseEventForm";
+            this.Text = "Mouse Event Form";
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.PainterForm_MouseDown);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.PainterForm_MouseMove);
             this.MouseUp += new System.Windows.Forms.MouseEventHandler(this.PainterForm_MouseUp);

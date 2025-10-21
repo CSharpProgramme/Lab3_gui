@@ -16,7 +16,7 @@ namespace Label_Text_Box_Button_Test
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new labelTextboxButtonForm());
         }
     }
 }

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Code_Demo
 {
-    public partial class Form1 : Form
+    public partial class clickButtonForm : Form
     {
-        public Form1()
+        public clickButtonForm()
         {
             InitializeComponent();
         }
@@ -21,5 +21,6 @@ namespace Code_Demo
         {
             MessageBox.Show("Thanks for clicking the button!");
         }
+
     }
 }

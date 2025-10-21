@@ -9,3 +9,14 @@ C:\Users\steve\Desktop\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.Core
 C:\Users\steve\Desktop\RadioButton\RadioButton\obj\Debug\RadioButton.exe
 C:\Users\steve\Desktop\RadioButton\RadioButton\obj\Debug\RadioButton.pdb
 C:\Users\steve\Desktop\RadioButton\RadioButton\obj\Debug\RadioButton.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\RadioButton\RadioButton\bin\Debug\RadioButton.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\RadioButton\RadioButton\bin\Debug\RadioButton.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\RadioButton\RadioButton\bin\Debug\RadioButton.pdb
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\RadioButton\RadioButton\obj\Debug\RadioButton.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\RadioButton\RadioButton\obj\Debug\RadioButton.radioButtonForm.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\RadioButton\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\RadioButton\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\RadioButton\RadioButton\obj\Debug\RadioButton.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\RadioButton\RadioButton\obj\Debug\RadioButton.pdb

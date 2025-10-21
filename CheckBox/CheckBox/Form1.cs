@@ -10,18 +10,22 @@ using System.Windows.Forms;
 
 namespace CheckBox
 {
-    public partial class Form1 : Form
+    public partial class checkboxForm : Form
     {
-        public Form1()
+        public checkboxForm()
         {
             InitializeComponent();
         }
 
+        // toggle the font style between bold and
+        // not bold based on the current setting
         private void boldCheckBox_CheckedChanged(object sender, EventArgs e)
         {
             outputLabel.Font = new Font (outputLabel.Font, outputLabel.Font.Style ^ FontStyle.Bold);
         }
 
+        // toggle the font style between italic and
+        // not italic based on the current setting
         private void italicCheckBox_CheckedChanged(object sender, EventArgs e)
         {
             outputLabel.Font = new Font(outputLabel.Font, outputLabel.Font.Style ^ FontStyle.Italic);

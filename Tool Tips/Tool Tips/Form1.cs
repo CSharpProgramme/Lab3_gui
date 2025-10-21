@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Tool_Tips
 {
-    public partial class Form1 : Form
+    public partial class toolTipForm : Form
     {
-        public Form1()
+        public toolTipForm()
         {
             InitializeComponent();
         }

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Multiple_Buttons
 {
-    public partial class Form1 : Form
+    public partial class multipleButtonsForm : Form
     {
-        public Form1()
+        public multipleButtonsForm()
         {
             InitializeComponent();
         }

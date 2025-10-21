@@ -9,3 +9,14 @@ C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\Group
 C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.exe
 C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.pdb
 C:\Users\steve\Desktop\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\GroupBoxPanelExample\GroupBoxPanelExample\bin\Debug\GroupBoxPanelExample.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\GroupBoxPanelExample\GroupBoxPanelExample\bin\Debug\GroupBoxPanelExample.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\GroupBoxPanelExample\GroupBoxPanelExample\bin\Debug\GroupBoxPanelExample.pdb
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.groupboxPanelForm.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.Properties.Resources.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\GroupBoxPanelExample\GroupBoxPanelExample\obj\Debug\GroupBoxPanelExample.pdb

@@ -1,6 +1,6 @@
 ﻿namespace Presidential_Trivia
 {
-    partial class Form1
+    partial class presidentTriviaForm
     {
         /// <summary>
         /// Required designer variable.
@@ -63,13 +63,14 @@
             this.showAnswerButton.UseVisualStyleBackColor = true;
             this.showAnswerButton.Click += new System.EventHandler(this.showAnswerButton_Click);
             // 
-            // Form1
+            // presidentTriviaForm
             // 
             this.ClientSize = new System.Drawing.Size(523, 366);
             this.Controls.Add(this.showAnswerButton);
             this.Controls.Add(this.answerLabel);
             this.Controls.Add(this.questionLabel);
-            this.Name = "Form1";
+            this.Name = "presidentTriviaForm";
+            this.Text = "President Trivia";
             this.ResumeLayout(false);
 
         }

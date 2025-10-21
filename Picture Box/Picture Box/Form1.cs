@@ -11,10 +11,10 @@ using System.Windows.Forms;
 namespace Picture_Box
 {
 
-    public partial class Form1 : Form
+    public partial class pictureBoxForm : Form
     {
         private int ImageNumber { get; set; } = -1; // image to display
-        public Form1()
+        public pictureBoxForm()
         {
             InitializeComponent();
         }

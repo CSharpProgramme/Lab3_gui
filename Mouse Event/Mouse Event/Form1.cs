@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace Mouse_Event
 {
-    public partial class Form1 : Form
+    public partial class mouseEventForm : Form
     {
         bool ShouldPaint { get; set; } = false; // whether to paint
-        public Form1()
+        public mouseEventForm()
         {
             InitializeComponent();
         }

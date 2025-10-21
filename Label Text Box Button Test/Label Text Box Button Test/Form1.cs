@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Label_Text_Box_Button_Test
 {
-    public partial class Form1 : Form
+    public partial class labelTextboxButtonForm : Form
     {
-        public Form1()
+        public labelTextboxButtonForm()
         {
             InitializeComponent();
         }

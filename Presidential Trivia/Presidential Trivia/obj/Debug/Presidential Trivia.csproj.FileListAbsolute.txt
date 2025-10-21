@@ -9,3 +9,14 @@ C:\Users\steve\Desktop\Presidential Trivia\Presidential Trivia\obj\Debug\Preside
 C:\Users\steve\Desktop\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.exe
 C:\Users\steve\Desktop\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.pdb
 C:\Users\steve\Desktop\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.pdb
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.exe.config
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential_Trivia.presidentTriviaForm.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential_Trivia.Properties.Resources.resources
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.exe
+C:\Users\steve\OneDrive\Desktop\Lab3_gui\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.pdb

@@ -1,6 +1,6 @@
 ﻿namespace Simple_Event_Example
 {
-    partial class SimpleEventExampleForm
+    partial class simpleEventExampleForm
     {
         /// <summary>
         /// Required designer variable.
@@ -33,25 +33,25 @@
             // 
             // clickButton
             // 
-            this.clickButton.Location = new System.Drawing.Point(402, 230);
+            this.clickButton.Location = new System.Drawing.Point(130, 99);
             this.clickButton.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.clickButton.Name = "clickButton";
-            this.clickButton.Size = new System.Drawing.Size(88, 27);
+            this.clickButton.Size = new System.Drawing.Size(131, 37);
             this.clickButton.TabIndex = 0;
             this.clickButton.Text = "Click Me !";
             this.clickButton.UseVisualStyleBackColor = true;
             this.clickButton.Click += new System.EventHandler(this.clickButton_Click);
             // 
-            // SimpleEventExampleForm
+            // simpleEventExampleForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(933, 519);
+            this.ClientSize = new System.Drawing.Size(438, 232);
             this.Controls.Add(this.clickButton);
             this.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.Name = "SimpleEventExampleForm";
-            this.Text = "Form1";
+            this.Name = "simpleEventExampleForm";
+            this.Text = "Simple Event Example";
             this.ResumeLayout(false);
 
         }

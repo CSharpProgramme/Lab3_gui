@@ -10,13 +10,13 @@ using System.Windows.Forms;
 
 namespace RadioButton
 {
-    public partial class Form1 : Form
+    public partial class radioButtonForm : Form
     {
         //create variables that store the user's choice of options
         private MessageBoxIcon IconType {  get; set; }
         private MessageBoxButtons ButtonType { get; set; }
         
-        public Form1()
+        public radioButtonForm()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace Code_Demo
 {
-    partial class Form1
+    partial class clickButtonForm
     {
         /// <summary>
         /// Required designer variable.
@@ -33,22 +33,24 @@
             // 
             // myButton
             // 
-            this.myButton.Location = new System.Drawing.Point(354, 201);
+            this.myButton.Location = new System.Drawing.Point(136, 152);
+            this.myButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.myButton.Name = "myButton";
-            this.myButton.Size = new System.Drawing.Size(75, 23);
+            this.myButton.Size = new System.Drawing.Size(122, 59);
             this.myButton.TabIndex = 0;
             this.myButton.Text = "Click me !";
             this.myButton.UseVisualStyleBackColor = true;
             this.myButton.Click += new System.EventHandler(this.myButton_Click);
             // 
-            // Form1
+            // clickButtonForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(418, 373);
             this.Controls.Add(this.myButton);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.Name = "clickButtonForm";
+            this.Text = "Code Demo";
             this.ResumeLayout(false);
 
         }
